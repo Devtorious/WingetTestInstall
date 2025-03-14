@@ -1,1 +1,1 @@
-Raw was shorterned to "http://gg.gg/InstallWinget" got ease of use
+Raw was shorterned to "http://gg.gg/InstallWinget" for ease of use
